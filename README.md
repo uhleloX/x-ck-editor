@@ -1,2 +1,2 @@
-# x-ck-editor
+# X CKEditor
 CKEditor Extension for uhleloX 
